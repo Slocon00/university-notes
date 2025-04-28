@@ -1,0 +1,21 @@
+[submodule "S4DS-2425-notes"]
+	path = S4DS-2425-notes
+	url = https://github.com/Slocon00/S4DS-2425-notes.git
+[submodule "GSA-2425-notes"]
+	path = GSA-2425-notes
+	url = https://github.com/Slocon00/GSA-2425-notes.git
+[submodule "IR-2425-notes"]
+	path = IR-2425-notes
+	url = https://github.com/Slocon00/IR-2425-notes.git
+[submodule "DM1-2324-notes"]
+	path = DM1-2324-notes
+	url = https://github.com/Slocon00/DM1-2324-notes.git
+[submodule "DM2-2324-notes"]
+	path = DM2-2324-notes
+	url = https://github.com/Slocon00/DM2-2324-notes.git
+[submodule "ADB-2324-notes"]
+	path = ADB-2324-notes
+	url = https://github.com/Slocon00/ADB-2324-notes.git
+[submodule "ML-2324-notes"]
+	path = ML-2324-notes
+	url = https://github.com/Slocon00/ML-2324-notes.git
