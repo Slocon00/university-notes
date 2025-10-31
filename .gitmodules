@@ -19,3 +19,6 @@
 [submodule "ML-2324-notes"]
 	path = ML
 	url = https://github.com/Slocon00/ML-2324-notes.git
+[submodule "DSS-2526-notes"]
+	path = DSS
+	url = https://github.com/Slocon00/DSS-2526-notes.git
